@@ -1,0 +1,16 @@
+{
+    "name": "BattleSimulator.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3de938ebe77e6834eb2333c5e7d23f33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
